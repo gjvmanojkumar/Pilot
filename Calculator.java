@@ -20,6 +20,7 @@ public class Calculator {
 	public int div(int x, int y) {
 		
 		return x/y;
+		System.out.println("THis prints");
 	}
 	
 	public static void main(String[] args) {
